@@ -5,7 +5,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/web_homework
     username: root
-    password: liuzhiyuan123
+    password: yourpassword
   servlet:
     multipart:
       max-file-size: 10MB
